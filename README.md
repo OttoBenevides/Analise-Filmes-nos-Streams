@@ -1,6 +1,6 @@
 # Análise de Filmes nas Plataformas de Streaming
 
-![image](https://user-images.githubusercontent.com/49328065/181866166-8f89449d-78f0-463a-baec-c4afc45c24ae.png)
+![image](https://user-images.githubusercontent.com/49328065/181866199-25b7fcec-9dde-431e-b0e1-72436b736fc6.png)
 
 ## Motivação
 
@@ -8,4 +8,4 @@ O streaming é uma tecnologia que permite a transmissão de dados de áudio ou v
 
 ## Objetivo:
 
-Apresentar as principais diferenças entre a Netflix, Hulu, Prime Video e Disney+  utilzando os dados para comparações de forma numérica e gráfica, enunciando as principais descobertas.
+Utilizar bibliotecas do python para apresentar as principais diferenças entre a Netflix, Hulu, Prime Video e Disney+  tanto de forma numérica, quanto gráfica, além de enunciar as principais descobertas obtidas através dos dados.
